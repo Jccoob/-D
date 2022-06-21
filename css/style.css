@@ -16,7 +16,7 @@ body {
 }
 
 #card, #card-front, #card-inside {
-  height: 600px;
+  height: 500px;
 }
 
 .wrap {
@@ -39,7 +39,7 @@ body {
 }
 
 #card {
-  width: 960px;
+  width: 800px;
   margin: auto;
   -webkit-transform-style: preserve-3d;
           transform-style: preserve-3d;
@@ -202,7 +202,7 @@ font-family: 'Lobster', cursive;
 
 .cake_and_velas {
   position: absolute;
-  bottom: 18%;
+  bottom: 9%;
   left: 0;
   right: 0;
   overflow: hidden;
